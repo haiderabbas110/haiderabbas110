@@ -4,7 +4,8 @@ I have 8+ years of experience in frontend & backend development with full proof 
 ## About me
 Hi, I'm Haider Abbas. You might recognize me as GitHub's mascot. ✅
 
-**| # | Languages |**
+| No | Languages |
+|-----:|-----------|
 | 1 | ReactJs |
 | 2 | NextJs |
 | 3 | TypeScript |
@@ -26,7 +27,6 @@ Hi, I'm Haider Abbas. You might recognize me as GitHub's mascot. ✅
 | 19 | MySql |
 | 20 | MongoDB |
 | 21 | GIT |
-
 
 <!--
 **haiderabbas110/haiderabbas110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
