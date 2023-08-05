@@ -29,8 +29,7 @@ Hi, I'm Haider Abbas. You might recognize me as GitHub's mascot. ✅
 | 21 | GIT |
 
 ## Social
-```javascript
-```
+Markup : * Bullet list
 Mail - haider.engineer12@gmail.com
 Upwork - https://www.upwork.com/freelancers/~0113a4b20e08acd5b0
 Stackoverflow - https://stackoverflow.com/users/6259685/haider-abbas
