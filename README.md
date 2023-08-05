@@ -30,15 +30,10 @@ Hi, I'm Haider Abbas. You might recognize me as GitHub's mascot. ✅
 
 ## Social
 
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
-Mail - haider.engineer12@gmail.com
-Upwork - https://www.upwork.com/freelancers/~0113a4b20e08acd5b0
-Stackoverflow - https://stackoverflow.com/users/6259685/haider-abbas
-Linkedin - https://www.linkedin.com/in/haider-abbas-353284a3/
+# Mail - haider.engineer12@gmail.com
+# Upwork - https://www.upwork.com/freelancers/~0113a4b20e08acd5b0
+# Stackoverflow - https://stackoverflow.com/users/6259685/haider-abbas
+# Linkedin - https://www.linkedin.com/in/haider-abbas-353284a3/
 
 <!--
 **haiderabbas110/haiderabbas110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
