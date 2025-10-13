@@ -1,5 +1,5 @@
 ## Hi there 👋
-I have 8+ years of experience in frontend & backend development with full proof of good reviews.
+I have 10+ years of experience in frontend & backend development with full proof of good reviews.
 
 ### About me
 Hi, I'm Haider Abbas. and These are truly real expertise. ✅
