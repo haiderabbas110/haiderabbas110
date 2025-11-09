@@ -4,7 +4,12 @@ Crafting scalable web platforms, e‑commerce systems, and developer‑friendly 
 
 > **10+ years** building production systems with proven delivery, strong reviews, and real business impact.
 
-[📧 Email](mailto:haider.engineer12@gmail.com) · [Upwork](https://www.upwork.com/freelancers/~0113a4b20e08acd5b0) · [LinkedIn](https://www.linkedin.com/in/haider-abbas-353284a3/) · [StackOverflow](https://stackoverflow.com/users/6259685/haider-abbas)
+### Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+
 
 ---
 
