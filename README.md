@@ -5,11 +5,24 @@ Crafting scalable web platforms, e‑commerce systems, and developer‑friendly 
 > **10+ years** building production systems with proven delivery, strong reviews, and real business impact.
 
 ### Connect With Me
-[![GitHub](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg)](https://github.com/haiderabbas110)
-[![LinkedIn](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg)](https://linkedin.com/in/haider-abbas-353284a3/)
-[![X](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg)](https://x.com/haidersayani)
-[![Upwork](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/upwork.svg)](https://www.upwork.com/freelancers/haiderabbas22)
-[![Stack Overflow](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg)](https://stackoverflow.com/users/6259685/haider-abbas)
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://github.com/haiderabbas110" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="30" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/haider-abbas-353284a3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/haidersayani" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="30" alt="X"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/haiderabbas22" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/upwork.svg" width="30" alt="Upwork"/>
+  </a>
+  <a href="https://stackoverflow.com/users/6259685/haider-abbas" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" width="30" alt="Stack Overflow"/>
+  </a>
+</div>
 
 ---
 
