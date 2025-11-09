@@ -1,6 +1,6 @@
 # Haider Abbas — Senior Full-Stack Engineer & Software Architect
 
-Crafting scalable web platforms, e-commerce systems, and developer-friendly APIs.
+Crafting scalable web platforms, e‑commerce systems, and developer‑friendly APIs.
 
 > **10+ years** building production systems with proven delivery, strong reviews, and real business impact.
 
@@ -10,25 +10,25 @@ Crafting scalable web platforms, e-commerce systems, and developer-friendly APIs
 
 ## 👨‍💻 About Me
 
-I’m **Haider Abbas**, a pragmatic full-stack engineer and architect focused on engineering systems that are scalable, maintainable, and optimized for business goals.
+I’m **Haider Abbas**, a pragmatic full‑stack engineer and architect focused on engineering systems that are scalable, maintainable, and optimized for business goals.
 
 I work across:
 
 * Modern frontends (React, Next.js, TypeScript)
-* High-performance backends (Node.js, NestJS, PHP/Laravel)
-* E-commerce ecosystems (Shopify, WooCommerce)
+* High‑performance backends (Node.js, NestJS, PHP/Laravel)
+* E‑commerce ecosystems (Shopify, WooCommerce)
 * Infrastructure, CI/CD, automated deployments & monitoring
 
-I love solving complex real-world problems and building durable architecture.
+I love solving complex real‑world problems and building durable architecture.
 
 ---
 
 ## 🚀 Core Strengths
 
-* End-to-end architecture & system design
-* Scalable full-stack development
-* Headless e-commerce & marketplace platforms
-* API development + 3rd-party integrations (GraphQL/REST)
+* End‑to‑end architecture & system design
+* Scalable full‑stack development
+* Headless e‑commerce & marketplace platforms
+* API development + 3rd‑party integrations (GraphQL/REST)
 * Performance, security, automation & DevOps
 * Technical leadership & code quality standards
 
@@ -40,7 +40,7 @@ I love solving complex real-world problems and building durable architecture.
 
 **Backend:** Node.js, Express, NestJS, PHP, Laravel, GraphQL, REST
 
-**CMS / E-Commerce:** WordPress, WooCommerce, Shopify (Liquid)
+**CMS / E‑Commerce:** WordPress, WooCommerce, Shopify (Liquid)
 
 **Databases:** MySQL, PostgreSQL, MongoDB
 
@@ -52,11 +52,11 @@ I love solving complex real-world problems and building durable architecture.
 
 ## 📂 Featured Work (Pinned)
 
-> *Key production-level work demonstrating engineering depth*
+> *Key production‑level work demonstrating engineering depth*
 
 ### ✅ Enterprise Headless Commerce
 
-Next.js + Shopify custom storefront with real-time sync and optimized performance.
+Next.js + Shopify custom storefront with real‑time sync and optimized performance.
 
 ### ✅ WordPress PDF Order Plugin
 
@@ -64,44 +64,52 @@ Custom WooCommerce admin PDF generator with secure storage & AJAX management.
 
 ### ✅ ShipHero & Fulfillment Sync Engine
 
-Node microservice syncing 10k+ orders with cursor-based pagination & durability checkpointing.
+Node microservice syncing 10k+ orders with cursor‑based pagination & durability checkpointing.
 
 ---
 
-## 🏗 Architecture Snapshot
+$1```mermaid
+flowchart LR
+Client[Client / Browser] --> CDN[CDN / Edge]
+CDN --> Web[Next.js / Frontend]
+Web --> API[API Gateway]
+API --> Auth[Auth Service]
+API --> Orders[Orders Service]
+Orders -->|events| EventBus[(Message Broker / Event Bus)]
+EventBus --> Billing[Billing Service]
+EventBus --> Analytics[Analytics Service]
+Billing --> Payment[Payment Provider]
 
-```mermaid
-decision
+%% Notes: event-driven, durable cursor storage, idempotency, observability
+
 ```
-
-*Event-driven architecture, graceful retries, idempotency, durable cursor state, and observability.*
+*Event‑driven architecture, graceful retries, idempotency, durable cursor state, and observability.*
 
 ---
 
 ## 🧠 Engineering Philosophy
-
-* Architecture before implementation
-* Clean code, maintainability, repeatability
-* CI/CD automation, version control discipline
-* Data-driven decision-making
-* Systems that scale with team growth
+- Architecture before implementation
+- Clean code, maintainability, repeatability
+- CI/CD automation, version control discipline
+- Data‑driven decision‑making
+- Systems that scale with team growth
 
 ---
 
 ## 🤝 Hiring & Collaboration
+- Available for **architecture consulting**, **full‑stack development**, and **e‑commerce engineering**
+- Strong remote collaboration habits
+- Clear documentation & code quality
 
-* Available for **architecture consulting**, **full-stack development**, and **e-commerce engineering**
-* Strong remote collaboration habits
-* Clear documentation & code quality
-
-📩 Email me: **[haider.engineer12@gmail.com](mailto:haider.engineer12@gmail.com)**
+📩 Email me: **haider.engineer12@gmail.com**
 
 ---
 
 ## 📎 Contribution
-
 This profile and public repos are open for community improvements. See `CONTRIBUTING.md` for guidelines.
 
 ---
 
 > Thanks for visiting — happy to connect and collaborate!
+
+```
