@@ -6,11 +6,25 @@ Crafting scalable web platforms, e‑commerce systems, and developer‑friendly 
 
 ### Connect With Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURUSERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+<a href="https://github.com/haiderabbas110" target="_blank">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="30"/>
+</a>
 
+<a href="https://linkedin.com/in/haider-abbas-353284a3/" target="_blank">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="30"/>
+</a>
 
+<a href="https://twitter.com/haidersayani" target="_blank">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="30"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/haiderabbas22" target="_blank">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/upwork.svg" width="30"/>
+</a>
+
+<a href="https://stackoverflow.com/users/6259685/haider-abbas" target="_blank">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" width="30"/>
+</a>
 ---
 
 ## 👨‍💻 About Me
