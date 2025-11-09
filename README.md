@@ -68,48 +68,36 @@ Node microservice syncing 10k+ orders with cursor‑based pagination & durabilit
 
 ---
 
-$1```mermaid
-flowchart LR
-Client[Client / Browser] --> CDN[CDN / Edge]
-CDN --> Web[Next.js / Frontend]
-Web --> API[API Gateway]
-API --> Auth[Auth Service]
-API --> Orders[Orders Service]
-Orders -->|events| EventBus[(Message Broker / Event Bus)]
-EventBus --> Billing[Billing Service]
-EventBus --> Analytics[Analytics Service]
-Billing --> Payment[Payment Provider]
+## 🏗 Architecture Snapshot
 
-%% Notes: event-driven, durable cursor storage, idempotency, observability
-
-```
-*Event‑driven architecture, graceful retries, idempotency, durable cursor state, and observability.*
+Event‑driven architecture, graceful retries, idempotency, durable cursor state, and observability.
 
 ---
 
 ## 🧠 Engineering Philosophy
-- Architecture before implementation
-- Clean code, maintainability, repeatability
-- CI/CD automation, version control discipline
-- Data‑driven decision‑making
-- Systems that scale with team growth
+
+* Architecture before implementation
+* Clean code, maintainability, repeatability
+* CI/CD automation, version control discipline
+* Data‑driven decision‑making
+* Systems that scale with team growth
 
 ---
 
 ## 🤝 Hiring & Collaboration
-- Available for **architecture consulting**, **full‑stack development**, and **e‑commerce engineering**
-- Strong remote collaboration habits
-- Clear documentation & code quality
 
-📩 Email me: **haider.engineer12@gmail.com**
+* Available for **architecture consulting**, **full‑stack development**, and **e‑commerce engineering**
+* Strong remote collaboration habits
+* Clear documentation & code quality
+
+📩 Email me: **[haider.engineer12@gmail.com](mailto:haider.engineer12@gmail.com)**
 
 ---
 
 ## 📎 Contribution
+
 This profile and public repos are open for community improvements. See `CONTRIBUTING.md` for guidelines.
 
 ---
 
 > Thanks for visiting — happy to connect and collaborate!
-
-```
